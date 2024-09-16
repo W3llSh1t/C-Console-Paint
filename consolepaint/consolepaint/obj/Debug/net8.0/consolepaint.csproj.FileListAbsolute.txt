@@ -1,0 +1,14 @@
+C:\Users\lehel\source\repos\consolepaint\consolepaint\bin\Debug\net8.0\consolepaint.exe
+C:\Users\lehel\source\repos\consolepaint\consolepaint\bin\Debug\net8.0\consolepaint.deps.json
+C:\Users\lehel\source\repos\consolepaint\consolepaint\bin\Debug\net8.0\consolepaint.runtimeconfig.json
+C:\Users\lehel\source\repos\consolepaint\consolepaint\bin\Debug\net8.0\consolepaint.dll
+C:\Users\lehel\source\repos\consolepaint\consolepaint\bin\Debug\net8.0\consolepaint.pdb
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\consolepaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\consolepaint.AssemblyInfoInputs.cache
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\consolepaint.AssemblyInfo.cs
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\consolepaint.csproj.CoreCompileInputs.cache
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\consolepaint.dll
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\refint\consolepaint.dll
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\consolepaint.pdb
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\consolepaint.genruntimeconfig.cache
+C:\Users\lehel\source\repos\consolepaint\consolepaint\obj\Debug\net8.0\ref\consolepaint.dll
