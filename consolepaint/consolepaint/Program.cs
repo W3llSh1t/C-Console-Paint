@@ -36,7 +36,7 @@ namespace consolepaint
             {
                 Console.Write("-");
             }
-            Console.WriteLine("Current Color: Red");
+            Console.WriteLine("Current color: Red");
             Console.WriteLine("Current saturation: █");
 
             Console.Write("+");
@@ -50,7 +50,7 @@ namespace consolepaint
 
 
 
-            for (int i = 0; i < winheight - 9; i++)
+            for (int i = 0; i < winheight - 12; i++)
             {
                 Console.Write("|");
                 for (int j = 0; j < winwidth - 2; j++)
